@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvecrypt",
+        "uuid": 21364000,
+        "checksum": "d54e9d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
